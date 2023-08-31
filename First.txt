@@ -2,3 +2,4 @@ This is some text.
 It has been modified.
 It's a really great file.
 This is a fourth line.
+This is a weird file but a great one.
