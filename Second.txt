@@ -2,4 +2,6 @@ Here is another file.
 You forgot to put a middle line.
 Here is a new second line.
 Another line really.
+Another one
 It is also a wonderful file.
+
